@@ -1,0 +1,38 @@
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe.config
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.exe
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Design Dashboard Modern.pdb
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Npgsql.dll
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Buffers.dll
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Memory.dll
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Text.Json.dll
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.ValueTuple.dll
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Npgsql.pdb
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Npgsql.xml
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Buffers.xml
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Memory.xml
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Text.Json.xml
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\System.ValueTuple.xml
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.TeachersSystem.resources
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.AdminSystem.resources
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.StudentSystem.resources
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Properties.Resources.resources
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\OnlineCourseManagment.csproj.GenerateResource.cache
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\OnlineCourseManagment.csproj.CoreCompileInputs.cache
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\OnlineCourseManagment.csproj.CopyComplete
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.exe
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design Dashboard Modern.pdb
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.LoginPage.resources
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.TodoSystem.resources
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.Payment.resources
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Design_Dashboard_Modern.AddCourse.resources
+C:\Users\Elbru\OneDrive\Masaüstü\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\OnlineCourseManagment.csprojAssemblyReference.cache
